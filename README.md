@@ -39,7 +39,3 @@
   </a></p>
 <p align="Left"> <a href="https://github.com/mrSHAGGYboy"><img src="https://github-profile-trophy.vercel.app/?username=mrSHAGGYboy&theme=radical&row=1&no-frame=true&no-bg=true" alt="mrSHAGGYboy" /></a> </p>
 
-
-
-
-[![Metrics](https://github.com/mrSHAGGYboy/mrSHAGGYboy/raw/main/github-metrics.svg)](https://github.com/mrSHAGGYboy)
