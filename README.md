@@ -38,3 +38,8 @@
     <img width="50%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=mrSHAGGYboy&show_icons=true&hide_border=true" />
   </a></p>
 <p align="Left"> <a href="https://github.com/mrSHAGGYboy"><img src="https://github-profile-trophy.vercel.app/?username=mrSHAGGYboy&theme=radical&row=1&no-frame=true&no-bg=true" alt="mrSHAGGYboy" /></a> </p>
+
+
+
+
+[![Metrics](https://github.com/mrSHAGGYboy/mrSHAGGYboy/raw/main/github-metrics.svg)](https://github.com/mrSHAGGYboy)
