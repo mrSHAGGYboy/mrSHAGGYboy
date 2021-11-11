@@ -48,10 +48,4 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mrSHAGGYboy&theme=react-dark&hide_border=true&area=true)
 
 
-### Show some ❤️ by starring the repos!
 
-</div>
-
-<div align = "center">
-  <img align="center" src= "https://github.com/mrSHAGGYboy/mrSHAGGYboy/blob/master/Contribution3D.jpg" />
-</div>
