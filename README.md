@@ -35,10 +35,15 @@
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
 
-### 📊 Stats
-<p>
-  <a href="https://github.com/mrSHAGGYboy/handle-path-oz">
-    <img width="50%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=mrSHAGGYboy&show_icons=true&hide_border=true" />
-  </a></p>
-<p align="Left"> <a href="https://github.com/mrSHAGGYboy"><img src="https://github-profile-trophy.vercel.app/?username=mrSHAGGYboy&theme=radical&row=1&no-frame=true&no-bg=true" alt="mrSHAGGYboy" /></a> </p>
+### Here's my github README stats:
+
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=mrSHAGGYboy&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrSHAGGYboy&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrSHAGGYboy)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/mrSHAGGYboy/mrSHAGGYboy/blob/output/github-contribution-grid-snake.gif)
+
 
